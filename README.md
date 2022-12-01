@@ -1,27 +1,28 @@
-# Angular
+# Sistema-de-Avaliacao
+Trabalho da disciplina de GPTI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+<b>Integrantes:</b> 
 
-## Development server
+<ul>
+ <li>Camila Felinto Surião</li>
+ <li>José Rafael Rodrigues Nascimento</li>
+ <li>Luiz Fernando Conceição dos Santos</li>
+ <li>Vinicius Roland Crisci</li>
+</ul>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<b>Detalhes:</b> 
 
-## Code scaffolding
+<ul>
+ <li>Sistema de Avaliação</li>
+ <li>Heroku: https://organizador-esi.herokuapp.com/ </li>
+ <li>Este projeto tem como objetivo desenvolver um sistema de avaliações em relação a conceitos de DevOps, possuindo questões abertas e fechadas. Visa-se um maior grau automação durante a correção das atividades, conferindo feedback automático aos alunos sempre que possível, além de diminuir o esforço desnecessário de professores.
+</li>
+</ul>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<b> Para Teste </b>
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<ul>
+ <li>docker network create canais-usp-cloudnetwork</li>
+ <li>na pasta api: mvn clean install</li>
+ <li>na pasta db: docker compose up</li>
+</ul>
